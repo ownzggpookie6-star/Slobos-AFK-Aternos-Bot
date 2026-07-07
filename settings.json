@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Mubarak00",
+    "username": "Spider man",
     "password": "",
     "type": "offline"
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to Mubarak!",
         "I like to play Minecraft!"
       ]
     },
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1524150468677468214/e7WMc-TgB_10af5jm25f3CZzESjy4X9g0rce8SdHqUpdNn6oBc-Kst8GLVCLKx_1-Pgf",
     "events": {
       "connect": true,
       "disconnect": true,
